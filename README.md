@@ -3,4 +3,4 @@ Electric Vehicles SQL and visualization
 
 Check lots of visualizations in tableau public: 
 
-https://public.tableau.com/views/EVdashboard/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/vicente.cardoso2379/viz/EVdashboard/Painel1
